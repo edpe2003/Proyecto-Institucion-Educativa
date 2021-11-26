@@ -1,0 +1,42 @@
+        · Cuentas MyQ ·
+------------------------------
+
+Admin
+- correo: admin@gmail.com
+- contraseña: SuperAdmin2021
+
+
+Alumno
+- correo: gaspar@gmail.com
+- contraseña: GasparMorales
+- grupo: 3eroBE
+-------------------------------------
+- correo: lorena@gmail.com
+- contraseña: LorenaRodriguez
+- grupo: 1eroBH
+-------------------------------------
+- correo: joaquin@gmail.com
+- contraseña: JoaquinSellanes
+- grupo: 3eroBE
+-------------------------------------
+- correo: eduardo@gmail.com
+- contraseña: EduardoPiñero
+- grupo: 1eroBH
+
+
+Docentes
+- correo: richard@gmail.com
+- contraseña: RichardPias
+- grupo: 3eroBE - 1eroBH
+-------------------------------------
+- correo: gonzalo@gmail.com
+- contraseña: GonzaloMartinez
+- grupo: 1eroBH
+-------------------------------------
+- correo: elina@gmail.com
+- contraseña: ElinaValles
+- grupo: 3eroBE - 1eroBH
+-------------------------------------
+- correo: gustavo@gmail.com
+- contraseña: GustavoCarrio
+- grupo: 1eroBH
